@@ -1,8 +1,32 @@
-# React + Vite
+## Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend toko online ini dibangun menggunakan React.js. Berikut adalah fitur-fitur yang diimplementasikan di frontend:
 
-Currently, two official plugins are available:
+1. Halaman utama yang menampilkan daftar produk
+2. Formulir untuk menambahkan/memperbarui produk
+3. Action delete pada produk
+4. State untuk mengelola jumlah produk yang akan dibeli
+5. Shopping cart untuk menghandle pembelian produk
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+Berikut adalah beberapa langkah untuk menjalankan proyek ini:
+1. Clone proyek ini ke komputer Anda
+```bash
+  git clone https://github.com/[nama_pengembang]/toko-online-sederhana.git
+```
+2. Arahkan ke directiori folder
+```bash
+  cd uts-pwl-fe
+```
+3. Install semua dependensi yang dibutuhkan
+```bash
+  npm install react-bootstrap bootstrap
+  npm install axios
+```
+4. Jalankan server backend dengan menjalankan perintah berikut:
+
+```bash
+  npm run dev
+```
+4. Buka browser dan arahkan ke http://localhost:5000
