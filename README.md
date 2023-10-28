@@ -13,7 +13,7 @@ Frontend toko online ini dibangun menggunakan React.js. Berikut adalah fitur-fit
 Berikut adalah beberapa langkah untuk menjalankan proyek ini:
 1. Clone proyek ini ke komputer Anda
 ```bash
-  git clone https://github.com/[nama_pengembang]/toko-online-sederhana.git
+  git clone https://github.com/novianagrsta/Front-End-SMGlobalShop.git
 ```
 2. Arahkan ke directiori folder
 ```bash
